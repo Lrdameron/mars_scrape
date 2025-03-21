@@ -91,8 +91,7 @@ Fields in the weather dataset:
 
 ## 👤 Author
 
-- **Your Name Here** – Data Scientist in Training  
-  _(Replace with your actual name if submitting individually, or list teammates if this was collaborative)_
+- **Logan Dameron**
 
 ---
 
