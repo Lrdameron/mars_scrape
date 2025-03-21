@@ -1,6 +1,8 @@
 # 🪐 Mars Web Scraper & Climate Analyzer
 
-A web scraping and data analysis project that extracts the latest Mars news from a web page and analyzes historical Martian weather patterns.
+A web scraping and data analysis project that extracts the latest Mars news from a web page and analyzes historical Martian weather patterns. 
+
+**For educational uses only.**
 
 ---
 
@@ -56,9 +58,3 @@ This project consists of two parts:
  ┣ 📜 mars_weather.csv
  ┣ 📜 README.md
 
-
-
-📄 License
-Created for educational purposes in the edX Data Science Bootcamp.
-All data/images used are publicly available or provided for instructional use.
-No commercial use intended.
